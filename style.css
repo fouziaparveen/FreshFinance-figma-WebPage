@@ -18,7 +18,7 @@
   /* Make the navbar background transparent */
   padding: 10px 0;
   /* Optional: Adjust navbar padding */
-  padding-left: 60px;
+  padding-left: 43px;
   /* Adjust as needed */
   padding-right: 60px;
   /* Adjust as needed */
@@ -46,8 +46,6 @@
   min-height: 70vh;
   height: auto;
 }
-
-
 
 
 #getintouchbtn {
